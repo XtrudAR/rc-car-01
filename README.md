@@ -7,5 +7,5 @@ Requirements
 ✅ A Somewhat powerful computer
 ✅ A strong work ethic, willingness to learn and plenty of excitement about the digital world
 
-Download Spark AR from
-sparkar.facebook.com/ar-studio/download
+
+[Download Spark AR](https://sparkar.facebook.com/ar-studio/download/)
